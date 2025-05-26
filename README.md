@@ -1,3 +1,3 @@
 python projects, 
 
-web Dev projects in HTML/CSS/JVS
+web Dev projects | HTML/CSS/JVS
